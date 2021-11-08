@@ -8,4 +8,4 @@
     pip install pillow 
 
 
-# Documentação: https://pypi.org/project/python-barcode/
+> Documentação: https://pypi.org/project/python-barcode/
